@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { Lightrees } from "../../Assets";
 import { Button, Input } from "../../Component/Atoms";
 import { useHistory } from "react-router-dom";
