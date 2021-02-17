@@ -6,6 +6,7 @@ export default function App() {
   return (
     <Router>
       <Route path="/" exact component={Login} />
+      <Route path="./home" component={Home} />
     </Router>
   );
 }
